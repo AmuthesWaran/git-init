@@ -1,0 +1,5 @@
+- Login
+- Find the leave tab
+- select dates
+- apply leave
+- look out for successful pop up
